@@ -1,0 +1,140 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "task4",
+            "request": "launch",
+            "mainClass": "homework1.task4",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "task2",
+            "request": "launch",
+            "mainClass": "homework1.task2",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "task3",
+            "request": "launch",
+            "mainClass": "homework1.task3",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "arrays",
+            "request": "launch",
+            "mainClass": "lection1.arrays",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "cycles",
+            "request": "launch",
+            "mainClass": "lection1.cycles",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "files",
+            "request": "launch",
+            "mainClass": "lection1.files",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "input",
+            "request": "launch",
+            "mainClass": "lection1.input",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "input_check",
+            "request": "launch",
+            "mainClass": "lection1.input_check",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "input_copy",
+            "request": "launch",
+            "mainClass": "lection1.input_copy",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "methods",
+            "request": "launch",
+            "mainClass": "lection1.methods",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "specificators",
+            "request": "launch",
+            "mainClass": "lection1.specificators",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "start",
+            "request": "launch",
+            "mainClass": "lection1.start",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "switcher",
+            "request": "launch",
+            "mainClass": "lection1.switcher",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "ternary",
+            "request": "launch",
+            "mainClass": "lection1.ternary",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "logger",
+            "request": "launch",
+            "mainClass": "lection2.logger",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "start(1)",
+            "request": "launch",
+            "mainClass": "lection2.start",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "count",
+            "request": "launch",
+            "mainClass": "seminar1.count",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "string_equal",
+            "request": "launch",
+            "mainClass": "seminar1.string_equal",
+            "projectName": "Java_3df404fa"
+        }
+    ]
+}
